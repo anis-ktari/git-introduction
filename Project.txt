@@ -1,3 +1,0 @@
-first : green, then blue
-
-last valuye : bacground color : blue
